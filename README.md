@@ -41,7 +41,7 @@ And you are done importing the library.
 
 <br />
 
-This is a secret library used only by the owner (which is me, Ragib - as long as i am alive). When creating downloadable artifacts, make this library public, as jitpack won't allow creating downloadable artifacts for a private repo. Make it private after creating downloadable artifact in jitpack.
+This is a secret library used only by the owner (which is me, Ragib - as long as I am alive). When creating downloadable artifacts, make this library public, as JitPack won't allow creating downloadable artifacts for a private repo. After you are done creating the artifacts (JitPack), make sure you make the github repo private.
 
 
 ### Happy coding!
